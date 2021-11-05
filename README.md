@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  https://aisbv2.github.io/Practice_2/ 
+- Live Site URL: https://github.com/Aisbv2/Practice_2/settings/pages
 
 ## My process
 
